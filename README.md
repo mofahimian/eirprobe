@@ -1,20 +1,23 @@
 # eirprobe
-A probe to calculate imei-check response time on GSM_MAP and DIAMETER Protocol
+A probe to calculate imei-check response time on GSM_MAP and DIAMETER protocol
 
 ## Dependecies
 
-You need install pyshark and redis & redis-client packages from pip repository
+You need install pyshark & redis-client packages from pip repository and redis-server from OS repository
 
 ### 1. Install pyshark
 
-> \> pip install pyshark
+```shell
+> pip install pyshark
+```
 
 ### 2. Install python redis client
-
-> \> pip install redis
-
+```shell
+> pip install redis
+```
 ### 3. Install redis server from centos official repository
-
-> \> yum install redis
-> \> systemctl start redis
-> \> systemctl enable redis
+```shell
+> yum install redis
+> systemctl start redis
+> systemctl enable redis
+```
