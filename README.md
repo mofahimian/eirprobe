@@ -3,7 +3,7 @@ A probe to calculate imei-check response time on GSM_MAP and DIAMETER protocol
 
 ## Dependecies
 
-You need install pyshark & redis-client packages from pip repository and redis-server from OS repository
+You need install pyshark & redis-client packages from pip repository and redis-server from OS repository.
 
 ### 1. Install pyshark
 
