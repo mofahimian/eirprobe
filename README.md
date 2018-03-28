@@ -7,11 +7,11 @@ You need install pyshark and redis & redis-client packages from pip repository
 
 ### 1. Install pyshark
 
-> > pip install pyshark
+> \> pip install pyshark
 
 ### 2. Install python redis client
 
-> > pip install redis
+> \> pip install redis
 
 ### 3. Install redis server from centos official repository
 
