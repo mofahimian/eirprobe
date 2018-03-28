@@ -15,6 +15,6 @@ You need install pyshark and redis & redis-client packages from pip repository
 
 ### 3. Install redis server from centos official repository
 
-> yum install redis
-> systemctl start redis
-> systemctl enable redis
+> \> yum install redis
+> \> systemctl start redis
+> \> systemctl enable redis
